@@ -26,6 +26,7 @@ Using len(def.axes[]) print the total no.of rows and columns with argument 0 for
 #Developed by: S V SHadhanashree
 #RegisterNumber:23013434
 ```
+```
 import pandas as pd
 df = pd.read_csv("data.csv")
 print(df.tail())
